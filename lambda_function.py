@@ -3,8 +3,8 @@ import datetime
 import calendar
 
 # Fill in your Apple ID username and password
-username = ''
-password = ''
+username = 'CathyMeyer@mac.com'
+password = '7088Meyer'
 
 # We can exclude any calendars that we don't want.
 # Unfortunately the GUID needs to be given, which you probably won't have to
